@@ -1,0 +1,9 @@
+pip install requests
+pip install easygui
+pip install random
+pip install os
+pip install bs4
+pip install colorama
+pip install beautifulsoup4
+pip install threading
+pip install datefinder
